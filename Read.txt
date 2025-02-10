@@ -1,2 +1,4 @@
 when number of per hit raising for database, then fist do vertical scaling.
 but this scaling not able to handle,then do horizantal scaling.
+
+for database croos-shared queries expensive and reduce the performance of system,code.
