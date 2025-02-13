@@ -3,3 +3,7 @@ but this scaling not able to handle,then do horizantal scaling.
 
 for database croos-shared queries expensive and reduce the performance of system,code.
 Graph Database name:- Neo4j,Neptune,Dgraph.
+
+Cache is data, caches is where these data are stored.
+Store those data in cache which is accessed frequently.
+Cache is implemented by redis.
