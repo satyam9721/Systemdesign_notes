@@ -7,3 +7,5 @@ Graph Database name:- Neo4j,Neptune,Dgraph.
 Cache is data, caches is where these data are stored.
 Store those data in cache which is accessed frequently.
 Cache is implemented by redis.
+
+stored most visted pages,data,images in browser cache memory, show next time suggestion will come after reding the cache memory. amzon prime read the browser memory and show suggestion to the user.
